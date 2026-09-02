@@ -1,7 +1,7 @@
 {
   "version": "0.5.0",
-  "downloadUrl": "https://github.com/fussygoat/Shadow-Rivals-Launcher/releases/download/v0.5.0/Shadow.Rivals.Launcher.Setup.0.5.0.exe",
-  "changelog": "Initial release:\n• Auto-update system\n• Version checking on launch\n• Game folder management\n• Direct game launcher",
-  "size": "78MB",
-  "releasedAt": "2026-09-01"
+  "downloadUrl": "",
+  "changelog": "Initial release:\n• Launcher with auto-update system\n• Version checking on launch\n• Game folder management\n• Direct game launcher",
+  "size": "",
+  "releasedAt": "2026-09-02"
 }
