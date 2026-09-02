@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "downloadUrl": "",
-  "changelog": "Initial release:\n• Launcher with auto-update system\n• Version checking on launch\n• Game folder management\n• Direct game launcher",
-  "size": "",
+  "version": "1.11.0",
+  "downloadUrl": "https://github.com/fussygoat/Shadow-Rivals-Launcher/releases/download/v0.5.1/ShadowRivals-v1.11.zip",
+  "changelog": "Shadow Rivals Alpha 1.11:\n• Gameplay improvements\n• Bug fixes and balance changes",
+  "size": "172MB",
   "releasedAt": "2026-09-02"
 }
