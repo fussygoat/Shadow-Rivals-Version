@@ -1,7 +1,7 @@
 {
-  "version": "1.11.0",
-  "downloadUrl": "https://github.com/fussygoat/Shadow-Rivals-Launcher/releases/download/v0.5.1/ShadowRivals-v1.11.zip",
-  "changelog": "Shadow Rivals Alpha 1.11:\n• Gameplay improvements\n• Bug fixes and balance changes",
-  "size": "172MB",
-  "releasedAt": "2026-09-02"
+  "version": "1.12.0",
+  "downloadUrl": "https://github.com/fussygoat/Shadow-Rivals-Version/releases/download/v1.12/Shadow Rivals Alpha 1.12.zip",
+  "changelog": "Shadow Rivals Alpha 1.12:\n- In-room view redesign with unified voting\n- Procedural minimap previews during map drafting\n- Defuse mode per-team vote columns\n- Map preview shows winning map after draft\n- New MinimapRenderer utility for map previews",
+  "size": "549MB",
+  "releasedAt": "2026-09-05"
 }
