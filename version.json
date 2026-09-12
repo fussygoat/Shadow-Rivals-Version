@@ -1,8 +1,8 @@
 {
   "version": "1.13.0",
   "downloadUrl": "https://github.com/fussygoat/Shadow-Rivals-Version/releases/download/v1.12/Shadow.Rivals.Alpha.1.12.zip",
-  "androidDownloadUrl": "https://github.com/fussygoat/Shadow-Rivals-Version/releases/download/v1.13/Shadow.Rivals.Alpha.1.13.-.Android.zip",
-  "macDownloadUrl": "https://github.com/fussygoat/Shadow-Rivals-Version/releases/download/v1.13/Shadow.Rivals.Alpha.1.13.-.Mac.app.zip",
+  "androidDownloadUrl": "https://github.com/fussygoat/Shadow-Rivals-Version/releases/download/v1.13/ShadowRivals.1.13.Android.apk",
+  "macDownloadUrl": "https://github.com/fussygoat/Shadow-Rivals-Version/releases/download/v1.13/ShadowRivals.1.13.Mac.zip",
   "changelog": "Shadow Rivals Alpha 1.13:\n- Android & Mac ports with native touch controls\n- Auto-update checker on Android\n- Cross-platform account linking\n- 18 Defuse maps including 6 new community maps\n- 33 game skins with full body rendering\n- Draft system for Defuse with per-team map voting\n- Copter upgrade system with 41 variants\n- Player upgrade system with superpowers\n- Kill combo system with money economy\n- In-room lobby with procedural minimap previews\n- Unified team names/colors for all modes",
   "size": "172MB",
   "androidSize": "368MB",
