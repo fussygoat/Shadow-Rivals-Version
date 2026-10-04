@@ -4,6 +4,6 @@
     "server.exe": "60b6e95bf939d90c87ef02f811d0fa29211ac8302648e5ee4ec792dfbec9eb5f",
     "client.exe": "74d9832e7f196c6cdef496c3fd1343acee635024e443ae88fe716483137f534e"
   },
-  "url": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.0.9/ShadowRivals-v0.0.9.zip",
-  "notes": "Shadow Rivals v0.0.9 - Admin API, 14 game modes, bots, voiceovers, Supabase integration"
+  "notes": "Shadow Rivals v0.0.9 - Admin API, 14 game modes, bots, voiceovers, Supabase integration",
+  "downloadUrl": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.0.9/ShadowRivals-v0.0.9.zip"
 }
