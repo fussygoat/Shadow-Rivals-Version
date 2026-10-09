@@ -1,9 +1,9 @@
 {
-  "version": "0.0.9",
+  "version": "0.1.0",
   "files": {
-    "server.exe": "60b6e95bf939d90c87ef02f811d0fa29211ac8302648e5ee4ec792dfbec9eb5f",
-    "client.exe": "74d9832e7f196c6cdef496c3fd1343acee635024e443ae88fe716483137f534e"
+    "server.exe": "21662796e6a3443f90a8f0bc3b53c5f33e79a1df150b4976bdf8a77476d86854",
+    "client.exe": "68b74ace644090b8b9ea274d94071a3913788bacdad46c18417c259d79c65949"
   },
-  "notes": "Shadow Rivals v0.0.9 - Admin API, 14 game modes, bots, voiceovers, Supabase integration",
-  "downloadUrl": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.0.9/ShadowRivals-v0.0.9.zip"
+  "notes": "Shadow Rivals v0.1.0 (preview, not official launch) - LAN multiplayer by default (servers bind 0.0.0.0), clip/highlight recording pipeline, expanded shipped assets (badges, social, sfx), client UI/presence/draft updates",
+  "downloadUrl": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.1.0/ShadowRivals-v0.1.0.zip"
 }
