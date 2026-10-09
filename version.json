@@ -1,9 +1,9 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "files": {
     "server.exe": "21662796e6a3443f90a8f0bc3b53c5f33e79a1df150b4976bdf8a77476d86854",
-    "client.exe": "28fbe83c88f37c1623067c96063951604a0397ba6be0a156d53997cedb2844a3"
+    "client.exe": "92440afe38c37ccdd13fdf7009b03487634a5695aab90d8ae1a74132567a2216"
   },
-  "notes": "v0.1.1 - My Account panel fixes: click-to-focus fields, placeholder hint, live rebuild after toggles/sign-in, blocked-word + leet check, 30-day cooldown + 80% similarity enforced client & server, server-side try_change_nickname now validates cooldown/availability/similarity/blocked words",
-  "downloadUrl": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.1.1/ShadowRivals-v0.1.1.zip"
+  "notes": "v0.1.2 - Draft & KOTH fixes: 4-team KOTH map pool filters by team count, draft phase safety net (auto-transition if stuck in result >3s), My Account click-to-focus/hint/live rebuild from v0.1.1",
+  "downloadUrl": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.1.2/ShadowRivals-v0.1.2.zip"
 }
