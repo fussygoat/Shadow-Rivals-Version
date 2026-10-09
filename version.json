@@ -1,9 +1,9 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "files": {
     "server.exe": "21662796e6a3443f90a8f0bc3b53c5f33e79a1df150b4976bdf8a77476d86854",
-    "client.exe": "68b74ace644090b8b9ea274d94071a3913788bacdad46c18417c259d79c65949"
+    "client.exe": "28fbe83c88f37c1623067c96063951604a0397ba6be0a156d53997cedb2844a3"
   },
-  "notes": "Shadow Rivals v0.1.0 (preview, not official launch) - LAN multiplayer by default (servers bind 0.0.0.0), clip/highlight recording pipeline, expanded shipped assets (badges, social, sfx), client UI/presence/draft updates",
-  "downloadUrl": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.1.0/ShadowRivals-v0.1.0.zip"
+  "notes": "v0.1.1 - My Account panel fixes: click-to-focus fields, placeholder hint, live rebuild after toggles/sign-in, blocked-word + leet check, 30-day cooldown + 80% similarity enforced client & server, server-side try_change_nickname now validates cooldown/availability/similarity/blocked words",
+  "downloadUrl": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.1.1/ShadowRivals-v0.1.1.zip"
 }
