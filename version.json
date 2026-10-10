@@ -1,9 +1,9 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "files": {
     "server.exe": "21662796e6a3443f90a8f0bc3b53c5f33e79a1df150b4976bdf8a77476d86854",
-    "client.exe": "92440afe38c37ccdd13fdf7009b03487634a5695aab90d8ae1a74132567a2216"
+    "client.exe": "5d2cae6bbd9eff78c162134fa8197b09f4a589194e7b6cac933aba0817274152"
   },
-  "notes": "v0.1.2 - Draft & KOTH fixes: 4-team KOTH map pool filters by team count, draft phase safety net (auto-transition if stuck in result >3s), My Account click-to-focus/hint/live rebuild from v0.1.1",
-  "downloadUrl": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.1.2/ShadowRivals-v0.1.2.zip"
+  "notes": "v0.1.3 - Role-based badge system: admin/CCC badges, role filtering, all v0.1.2 fixes",
+  "downloadUrl": "https://github.com/fussygoat/ShadowRivals/releases/download/v0.1.3/ShadowRivals-v0.1.3.zip"
 }
